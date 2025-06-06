@@ -1,4 +1,4 @@
-### Olá, sou Italo Araujo e eu sou estudante de Ciência de Dados
+### Hello, I'm Italo Araujo and I'm a Data Science student
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=italogna&show_icons=true&theme=vision-friendly-dark&count_private=true" width="320" />
